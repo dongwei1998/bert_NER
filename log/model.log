@@ -1,0 +1,5 @@
+2022-08-31 16:41:50|INFO|gpu_git.py[:163]|Given an unaviliable mode,will be chosen by memory
+2022-08-31 16:41:50|INFO|gpu_git.py[:114]|Sorted by free memory rate
+2022-08-31 16:41:50|INFO|gpu_git.py[:167]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:31 | power.limit:1 | specified:True
+2022-08-31 16:41:51|INFO|train.py[:84]|Start training model !
+2022-08-31 16:41:58|INFO|train.py[:122]|epoch num 10, bach size 5660

@@ -1,0 +1,151 @@
+2022-04-08 10:39:26|INFO|train.py[:51]|Start training model !
+2022-04-08 10:39:40|INFO|train.py[:51]|Start training model !
+2022-04-08 10:39:50|INFO|train.py[:121]|epoch 1, batch 0, loss:1.0164, acc:0.6953
+2022-04-08 10:39:51|INFO|train.py[:127]|epoch 1, save model at ./alphamind\bert.model.ckpt-11
+2022-04-08 10:40:02|INFO|train.py[:121]|epoch 1, batch 50, loss:0.7493, acc:0.6352
+2022-04-08 10:40:13|INFO|train.py[:121]|epoch 1, batch 100, loss:0.7362, acc:0.6217
+2022-04-08 10:40:13|INFO|train.py[:127]|epoch 1, save model at ./alphamind\bert.model.ckpt-12
+2022-04-08 10:40:24|INFO|train.py[:121]|epoch 1, batch 150, loss:0.7406, acc:0.6054
+2022-04-08 10:40:36|INFO|train.py[:121]|epoch 1, batch 200, loss:0.7435, acc:0.6077
+2022-04-08 10:40:36|INFO|train.py[:127]|epoch 1, save model at ./alphamind\bert.model.ckpt-13
+2022-04-08 10:40:47|INFO|train.py[:121]|epoch 1, batch 250, loss:0.7402, acc:0.6075
+2022-04-08 10:40:58|INFO|train.py[:121]|epoch 1, batch 300, loss:0.7393, acc:0.6035
+2022-04-08 10:40:59|INFO|train.py[:127]|epoch 1, save model at ./alphamind\bert.model.ckpt-14
+2022-04-08 10:41:10|INFO|train.py[:121]|epoch 1, batch 350, loss:0.7401, acc:0.6014
+2022-04-08 10:41:21|INFO|train.py[:121]|epoch 1, batch 400, loss:0.7473, acc:0.6003
+2022-04-08 10:41:21|INFO|train.py[:127]|epoch 1, save model at ./alphamind\bert.model.ckpt-15
+2022-04-08 10:41:33|INFO|train.py[:121]|epoch 1, batch 450, loss:0.7500, acc:0.5988
+2022-04-08 10:41:44|INFO|train.py[:121]|epoch 1, batch 500, loss:0.7490, acc:0.5981
+2022-04-08 10:41:44|INFO|train.py[:127]|epoch 1, save model at ./alphamind\bert.model.ckpt-16
+2022-04-08 10:41:55|INFO|train.py[:121]|epoch 1, batch 550, loss:0.7443, acc:0.5979
+2022-04-08 10:42:06|INFO|train.py[:121]|epoch 1, batch 600, loss:0.7437, acc:0.5973
+2022-04-08 10:42:07|INFO|train.py[:127]|epoch 1, save model at ./alphamind\bert.model.ckpt-17
+2022-04-08 10:42:18|INFO|train.py[:121]|epoch 1, batch 650, loss:0.7417, acc:0.5970
+2022-04-08 10:42:26|INFO|train.py[:130]|time in 1 epoch:157.98665642738342 secs
+
+2022-04-08 10:46:11|INFO|train.py[:51]|Start training model !
+2022-04-08 10:46:17|INFO|train.py[:91]|epoch num 1, bach size 688
+2022-04-08 10:49:15|INFO|train.py[:130]|time in 1 epoch:178.03466939926147 secs
+
+2022-04-08 10:56:42|INFO|train.py[:51]|Start training model !
+2022-04-08 10:56:50|INFO|train.py[:91]|epoch num 1, bach size 688
+2022-04-08 10:59:19|INFO|train.py[:132]|time in 1 epoch:148.82466387748718 secs
+
+2022-04-08 11:04:43|INFO|train.py[:51]|Start training model !
+2022-04-08 11:04:49|INFO|train.py[:91]|epoch num 1, bach size 688
+2022-04-08 11:05:52|INFO|train.py[:51]|Start training model !
+2022-04-08 11:05:58|INFO|train.py[:91]|epoch num 1, bach size 688
+2022-04-08 11:06:10|INFO|train.py[:122]|epoch 1, batch 50, loss:0.7373, acc:0.5912
+2022-04-08 11:06:21|INFO|train.py[:122]|epoch 1, batch 100, loss:0.7304, acc:0.5801
+2022-04-08 11:10:06|INFO|train.py[:51]|Start training model !
+2022-04-08 11:10:13|INFO|train.py[:91]|epoch num 1, bach size 688
+2022-04-08 11:10:25|INFO|train.py[:122]|epoch 1, batch 50, loss:0.7284, acc:0.5823
+2022-04-08 11:10:36|INFO|train.py[:122]|epoch 1, batch 100, loss:0.7199, acc:0.5904
+2022-04-08 11:10:46|INFO|train.py[:122]|epoch 1, batch 150, loss:0.7301, acc:0.5930
+2022-04-08 11:10:57|INFO|train.py[:122]|epoch 1, batch 200, loss:0.7496, acc:0.5909
+2022-04-08 11:10:57|INFO|train.py[:128]|epoch 1, save model at ./alphamind\bert.model.ckpt-18
+2022-04-08 11:11:08|INFO|train.py[:122]|epoch 1, batch 250, loss:0.7437, acc:0.5927
+2022-04-08 11:11:18|INFO|train.py[:122]|epoch 1, batch 300, loss:0.7458, acc:0.5922
+2022-04-08 11:11:29|INFO|train.py[:122]|epoch 1, batch 350, loss:0.7348, acc:0.5925
+2022-04-08 11:11:40|INFO|train.py[:122]|epoch 1, batch 400, loss:0.7397, acc:0.5950
+2022-04-08 11:11:40|INFO|train.py[:128]|epoch 1, save model at ./alphamind\bert.model.ckpt-19
+2022-04-08 11:11:51|INFO|train.py[:122]|epoch 1, batch 450, loss:0.7373, acc:0.5946
+2022-04-08 11:12:03|INFO|train.py[:122]|epoch 1, batch 500, loss:0.7368, acc:0.5947
+2022-04-08 11:12:16|INFO|train.py[:122]|epoch 1, batch 550, loss:0.7396, acc:0.5935
+2022-04-08 11:12:29|INFO|train.py[:122]|epoch 1, batch 600, loss:0.7385, acc:0.5943
+2022-04-08 11:12:30|INFO|train.py[:128]|epoch 1, save model at ./alphamind\bert.model.ckpt-20
+2022-04-08 11:12:43|INFO|train.py[:122]|epoch 1, batch 650, loss:0.7388, acc:0.5955
+2022-04-08 11:12:53|INFO|train.py[:132]|time in 1 epoch:160.03314971923828 secs
+
+2022-04-08 14:52:29|INFO|train.py[:51]|Start training model !
+2022-04-08 14:52:38|INFO|train.py[:91]|epoch num 2, bach size 688
+2022-04-08 14:53:02|INFO|train.py[:124]|epoch 1, batch 100, loss:1.5445, acc:0.4473
+2022-04-08 14:53:24|INFO|train.py[:124]|epoch 1, batch 200, loss:1.1641, acc:0.5212
+2022-04-08 14:53:47|INFO|train.py[:124]|epoch 1, batch 300, loss:1.0175, acc:0.5459
+2022-04-08 14:54:25|INFO|train.py[:51]|Start training model !
+2022-04-08 14:54:31|INFO|train.py[:91]|epoch num 10, bach size 3440
+2022-04-08 14:54:55|INFO|train.py[:124]|epoch 1, batch 100, loss:1.5322, acc:0.4426
+2022-04-08 14:55:17|INFO|train.py[:124]|epoch 1, batch 200, loss:1.1552, acc:0.5169
+2022-04-08 14:55:39|INFO|train.py[:124]|epoch 1, batch 300, loss:1.0238, acc:0.5427
+2022-04-08 14:55:49|INFO|train.py[:134]|time in 1 epoch:78.3748128414154 secs
+
+2022-04-08 14:56:02|INFO|train.py[:124]|epoch 2, batch 400, loss:0.9435, acc:0.5564
+2022-04-08 14:56:25|INFO|train.py[:124]|epoch 2, batch 500, loss:0.8916, acc:0.5633
+2022-04-08 14:56:26|INFO|train.py[:130]|epoch 2, save model at ./alphamind\bert.model.ckpt-1
+2022-04-08 14:56:50|INFO|train.py[:124]|epoch 2, batch 600, loss:0.8515, acc:0.5686
+2022-04-08 14:57:10|INFO|train.py[:134]|time in 1 epoch:80.860524892807 secs
+
+2022-04-08 14:57:13|INFO|train.py[:124]|epoch 3, batch 700, loss:0.8237, acc:0.5723
+2022-04-08 14:57:36|INFO|train.py[:124]|epoch 3, batch 800, loss:0.7921, acc:0.5772
+2022-04-08 14:57:59|INFO|train.py[:124]|epoch 3, batch 900, loss:0.7559, acc:0.5816
+2022-04-08 14:58:23|INFO|train.py[:124]|epoch 3, batch 1000, loss:0.7219, acc:0.5852
+2022-04-08 14:58:23|INFO|train.py[:130]|epoch 3, save model at ./alphamind\bert.model.ckpt-2
+2022-04-08 14:58:31|INFO|train.py[:134]|time in 1 epoch:80.22583603858948 secs
+
+2022-04-08 14:58:46|INFO|train.py[:124]|epoch 4, batch 1100, loss:0.6892, acc:0.5896
+2022-04-08 14:59:10|INFO|train.py[:124]|epoch 4, batch 1200, loss:0.6600, acc:0.5938
+2022-04-08 14:59:33|INFO|train.py[:124]|epoch 4, batch 1300, loss:0.6334, acc:0.5979
+2022-04-08 14:59:51|INFO|train.py[:134]|time in 1 epoch:80.36779880523682 secs
+
+2022-04-08 14:59:57|INFO|train.py[:124]|epoch 5, batch 1400, loss:0.6102, acc:0.6005
+2022-04-08 15:00:20|INFO|train.py[:124]|epoch 5, batch 1500, loss:0.5894, acc:0.6033
+2022-04-08 15:00:21|INFO|train.py[:130]|epoch 5, save model at ./alphamind\bert.model.ckpt-3
+2022-04-08 15:00:44|INFO|train.py[:124]|epoch 5, batch 1600, loss:0.5697, acc:0.6068
+2022-04-08 15:01:06|INFO|train.py[:124]|epoch 5, batch 1700, loss:0.5526, acc:0.6091
+2022-04-08 15:01:11|INFO|train.py[:134]|time in 1 epoch:80.07123637199402 secs
+
+2022-04-08 15:01:29|INFO|train.py[:124]|epoch 6, batch 1800, loss:0.5354, acc:0.6122
+2022-04-08 15:01:52|INFO|train.py[:124]|epoch 6, batch 1900, loss:0.5194, acc:0.6148
+2022-04-08 15:02:15|INFO|train.py[:124]|epoch 6, batch 2000, loss:0.5037, acc:0.6177
+2022-04-08 15:02:16|INFO|train.py[:130]|epoch 6, save model at ./alphamind\bert.model.ckpt-4
+2022-04-08 15:02:31|INFO|train.py[:134]|time in 1 epoch:79.50861763954163 secs
+
+2022-04-08 15:02:39|INFO|train.py[:124]|epoch 7, batch 2100, loss:0.4892, acc:0.6201
+2022-04-08 15:03:02|INFO|train.py[:124]|epoch 7, batch 2200, loss:0.4767, acc:0.6229
+2022-04-08 15:03:24|INFO|train.py[:124]|epoch 7, batch 2300, loss:0.4636, acc:0.6251
+2022-04-08 15:03:47|INFO|train.py[:124]|epoch 7, batch 2400, loss:0.4508, acc:0.6271
+2022-04-08 15:03:49|INFO|train.py[:134]|time in 1 epoch:78.16923952102661 secs
+
+2022-04-08 15:04:10|INFO|train.py[:124]|epoch 8, batch 2500, loss:0.4387, acc:0.6295
+2022-04-08 15:04:10|INFO|train.py[:130]|epoch 8, save model at ./alphamind\bert.model.ckpt-5
+2022-04-08 15:04:34|INFO|train.py[:124]|epoch 8, batch 2600, loss:0.4284, acc:0.6315
+2022-04-08 15:04:57|INFO|train.py[:124]|epoch 8, batch 2700, loss:0.4188, acc:0.6334
+2022-04-08 15:05:09|INFO|train.py[:134]|time in 1 epoch:80.77441215515137 secs
+
+2022-04-08 15:05:21|INFO|train.py[:124]|epoch 9, batch 2800, loss:0.4097, acc:0.6356
+2022-04-08 15:05:44|INFO|train.py[:124]|epoch 9, batch 2900, loss:0.4002, acc:0.6373
+2022-04-08 15:06:08|INFO|train.py[:124]|epoch 9, batch 3000, loss:0.3918, acc:0.6390
+2022-04-08 15:06:09|INFO|train.py[:130]|epoch 9, save model at ./alphamind\bert.model.ckpt-6
+2022-04-08 15:06:32|INFO|train.py[:134]|time in 1 epoch:82.18899083137512 secs
+
+2022-04-08 15:06:33|INFO|train.py[:124]|epoch 10, batch 3100, loss:0.3843, acc:0.6406
+2022-04-08 15:06:56|INFO|train.py[:124]|epoch 10, batch 3200, loss:0.3763, acc:0.6424
+2022-04-08 15:07:19|INFO|train.py[:124]|epoch 10, batch 3300, loss:0.3698, acc:0.6437
+2022-04-08 15:07:42|INFO|train.py[:124]|epoch 10, batch 3400, loss:0.3632, acc:0.6450
+2022-04-08 15:07:52|INFO|train.py[:134]|time in 1 epoch:79.86753034591675 secs
+
+2022-04-08 15:44:45|INFO|server.py[:123]|基于模型：降档用户数据检测.....
+2022-04-08 15:44:45|ERROR|server.py[:142]|异常信息为:The first argument to `Layer.call` must always be passed.
+2022-04-08 15:44:58|INFO|server.py[:123]|基于模型：降档用户数据检测.....
+2022-04-08 15:44:58|ERROR|server.py[:142]|异常信息为:The first argument to `Layer.call` must always be passed.
+2022-04-08 15:45:56|INFO|server.py[:123]|基于模型：降档用户数据检测.....
+2022-04-08 15:45:56|ERROR|server.py[:142]|异常信息为:The first argument to `Layer.call` must always be passed.
+2022-04-08 15:48:34|INFO|server.py[:123]|基于模型：降档用户数据检测.....
+2022-04-08 15:48:35|ERROR|server.py[:142]|异常信息为:The first argument to `Layer.call` must always be passed.
+2022-04-08 15:50:28|INFO|server.py[:125]|基于模型：降档用户数据检测.....
+2022-04-08 15:54:15|INFO|server.py[:125]|基于模型：降档用户数据检测.....
+2022-04-08 15:54:15|ERROR|server.py[:144]|异常信息为:Incompatible shapes: [1,302,128] vs. [1,64,128] [Op:AddV2]
+2022-04-08 16:09:53|INFO|server.py[:127]|基于模型：降档用户数据检测.....
+2022-04-08 16:11:23|INFO|server.py[:127]|基于模型：降档用户数据检测.....
+2022-04-08 16:13:54|INFO|server.py[:127]|基于模型：降档用户数据检测.....
+2022-04-08 16:16:42|INFO|server.py[:127]|基于模型：降档用户数据检测.....
+2022-04-08 16:49:13|INFO|server.py[:118]|基于模型：降档用户数据检测.....
+2022-04-08 16:49:13|ERROR|server.py[:142]|异常信息为:Object of type zip is not JSON serializable
+2022-04-08 16:50:10|INFO|server.py[:118]|基于模型：降档用户数据检测.....
+2022-04-08 16:50:10|ERROR|server.py[:142]|异常信息为:Object of type zip is not JSON serializable
+2022-04-08 16:50:35|INFO|server.py[:118]|基于模型：降档用户数据检测.....
+2022-04-08 16:50:35|ERROR|server.py[:142]|异常信息为:Object of type zip is not JSON serializable
+2022-04-08 16:51:06|INFO|server.py[:118]|基于模型：降档用户数据检测.....
+2022-04-08 16:55:43|INFO|server.py[:116]|基于bert模型：ner 命名体识别.....
+2022-04-08 16:56:34|INFO|server.py[:116]|基于bert模型：ner 命名体识别.....
+2022-04-08 17:02:47|INFO|server.py[:116]|基于bert模型：ner 命名体识别.....
